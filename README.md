@@ -1,4 +1,4 @@
-# Grapite + SatsD Base Image
+# Grapite + StatsD Base Image
 
 Ports:
 
